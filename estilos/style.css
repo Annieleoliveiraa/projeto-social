@@ -16,7 +16,6 @@ body {
     background-size: cover;
     background-attachment: fixed;
     overflow-y: hidden;
-    
 }
 
 main {
@@ -38,7 +37,7 @@ iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
+    width: 266px;
     height: 471px;
 }
 
