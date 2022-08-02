@@ -22,7 +22,6 @@ body {
 main {
     position: relative;
     height: 100vh;
-    padding-top: 1rem;
 }
 
 section#telefone {
